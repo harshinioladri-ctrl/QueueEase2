@@ -1,0 +1,13 @@
+com\queueease\queueease\controller\UserController.class
+com\queueease\queueease\service\QueueService.class
+com\queueease\queueease\controller\ServiceController.class
+com\queueease\queueease\entity\QueueEntry.class
+com\queueease\queueease\QueueeaseApplication.class
+com\queueease\queueease\repository\QueueEntryRepository.class
+com\queueease\queueease\entity\User.class
+com\queueease\queueease\repository\UserRepository.class
+com\queueease\queueease\entity\Service.class
+com\queueease\queueease\service\UserService.class
+com\queueease\queueease\controller\QueueController.class
+com\queueease\queueease\repository\ServiceRepository.class
+com\queueease\queueease\service\ServiceService.class
